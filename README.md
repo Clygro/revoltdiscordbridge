@@ -14,6 +14,9 @@ Add your revolt channel ids to the revChannels array: <br>
 Example: `const revChannels = ["01FFR5BSGAXVP1NJ4FSDEZ2JJH"]`
 
 ### Starting the bot
+You may need to install some stuff using `npm` if you don't have it installed already, try installing the `npm` package. <br>
+Next you will also need to install `revchatapi` (do `npm install revchatapi` to install).<br>
+You will also need discord.js installed (do `npm install discord.js` to install) <br>
 cd into your directory, if unsure do `cd` then do `cd revoltdiscordbridge`. <br>
 Type `node .` into your command line. <br>
 The bot should online, enjoy!
