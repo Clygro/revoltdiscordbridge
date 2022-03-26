@@ -19,4 +19,4 @@ Next you will also need to install `revchatapi` (do `npm install revchatapi` to 
 You will also need discord.js installed (do `npm install discord.js` to install) <br>
 cd into your directory, if unsure do `cd` then do `cd revoltdiscordbridge`. <br>
 Type `node .` into your command line. <br>
-The bot should online, enjoy!
+The bot should come online, enjoy!
